@@ -4,3 +4,5 @@ The Todo List Application is a simple Java-based project designed to help users 
 This application implements core functionalities for adding, completing, and removing tasks, making it a practical tool for everyday use. 
 <br>
 It follows object-oriented programming principles, ensuring clean and maintainable code.
+<br>
+Programmer - Manas
