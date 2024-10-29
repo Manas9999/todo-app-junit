@@ -5,4 +5,9 @@ This application implements core functionalities for adding, completing, and rem
 <br>
 It follows object-oriented programming principles, ensuring clean and maintainable code.
 <br>
+<<<<<<< HEAD
 Programmer - Manas Patra
+=======
+<h>Programmer - Manas</h>
+>>>>>>> 9e6c54483671f914d795b086af4dd0f468243231
+
